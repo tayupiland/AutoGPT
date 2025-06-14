@@ -176,3 +176,6 @@ autogpt_platform/backend/settings.py
 
 *.ign.*
 .test-contents
+
+# 追加する行（コピペでOK）
+.env
